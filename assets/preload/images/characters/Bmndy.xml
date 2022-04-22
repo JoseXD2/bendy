@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bmndy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BendyIdle0000" x="1" y="1" width="210" height="468" frameX="-16" frameY="-36" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0001" x="1" y="1" width="210" height="468" frameX="-16" frameY="-36" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0002" x="212" y="1" width="211" height="466" frameX="-19" frameY="-38" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0003" x="212" y="1" width="211" height="466" frameX="-19" frameY="-38" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0004" x="424" y="1" width="211" height="474" frameX="-19" frameY="-30" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0005" x="424" y="1" width="211" height="474" frameX="-19" frameY="-30" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0006" x="636" y="1" width="209" height="488" frameX="0" frameY="-15" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0007" x="636" y="1" width="209" height="488" frameX="0" frameY="-15" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0008" x="846" y="1" width="209" height="504" frameX="-4" frameY="0" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0009" x="846" y="1" width="209" height="504" frameX="-4" frameY="0" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0010" x="846" y="1" width="209" height="504" frameX="-4" frameY="0" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0011" x="846" y="1" width="209" height="504" frameX="-4" frameY="0" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0012" x="846" y="1" width="209" height="504" frameX="-4" frameY="0" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0013" x="846" y="1" width="209" height="504" frameX="-4" frameY="0" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyIdle0014" x="846" y="1" width="209" height="504" frameX="-4" frameY="0" frameWidth="230" frameHeight="504"/>
+	<SubTexture name="BendyLeft0000" x="1056" y="1" width="400" height="491" frameX="-39" frameY="-5" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0001" x="1056" y="1" width="400" height="491" frameX="-39" frameY="-5" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0002" x="1457" y="1" width="478" height="496" frameX="-13" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0003" x="1457" y="1" width="478" height="496" frameX="-13" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0004" x="1" y="506" width="459" height="495" frameX="0" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0005" x="1" y="506" width="459" height="495" frameX="0" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0006" x="1" y="506" width="459" height="495" frameX="0" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0007" x="1" y="506" width="459" height="495" frameX="0" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0008" x="1" y="506" width="459" height="495" frameX="0" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0009" x="1" y="506" width="459" height="495" frameX="0" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0010" x="1" y="506" width="459" height="495" frameX="0" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0011" x="1" y="506" width="459" height="495" frameX="0" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0012" x="1" y="506" width="459" height="495" frameX="0" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyLeft0013" x="1" y="506" width="459" height="495" frameX="0" frameY="0" frameWidth="491" frameHeight="496"/>
+	<SubTexture name="BendyRight0000" x="461" y="506" width="247" height="456" frameX="-47" frameY="0" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0001" x="461" y="506" width="247" height="456" frameX="-47" frameY="0" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0002" x="709" y="506" width="291" height="421" frameX="0" frameY="-35" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0003" x="709" y="506" width="291" height="421" frameX="0" frameY="-35" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0004" x="1001" y="506" width="282" height="443" frameX="-9" frameY="-13" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0005" x="1001" y="506" width="282" height="443" frameX="-9" frameY="-13" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0006" x="1001" y="506" width="282" height="443" frameX="-9" frameY="-13" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0007" x="1001" y="506" width="282" height="443" frameX="-9" frameY="-13" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0008" x="1001" y="506" width="282" height="443" frameX="-9" frameY="-13" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0009" x="1001" y="506" width="282" height="443" frameX="-9" frameY="-13" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0010" x="1001" y="506" width="282" height="443" frameX="-9" frameY="-13" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0011" x="1001" y="506" width="282" height="443" frameX="-9" frameY="-13" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0012" x="1001" y="506" width="282" height="443" frameX="-9" frameY="-13" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyRight0013" x="1001" y="506" width="282" height="443" frameX="-9" frameY="-13" frameWidth="294" frameHeight="456"/>
+	<SubTexture name="BendyUp0000" x="1284" y="506" width="396" height="505" frameX="-26" frameY="-25" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0001" x="1284" y="506" width="396" height="505" frameX="-26" frameY="-25" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0002" x="1" y="1012" width="442" height="530"/>
+	<SubTexture name="BendyUp0003" x="1" y="1012" width="442" height="530"/>
+	<SubTexture name="BendyUp0004" x="444" y="1012" width="431" height="523" frameX="-6" frameY="-7" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0005" x="444" y="1012" width="431" height="523" frameX="-6" frameY="-7" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0006" x="444" y="1012" width="431" height="523" frameX="-6" frameY="-7" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0007" x="444" y="1012" width="431" height="523" frameX="-6" frameY="-7" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0008" x="444" y="1012" width="431" height="523" frameX="-6" frameY="-7" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0009" x="444" y="1012" width="431" height="523" frameX="-6" frameY="-7" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0010" x="444" y="1012" width="431" height="523" frameX="-6" frameY="-7" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0011" x="444" y="1012" width="431" height="523" frameX="-6" frameY="-7" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0012" x="444" y="1012" width="431" height="523" frameX="-6" frameY="-7" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="BendyUp0013" x="444" y="1012" width="431" height="523" frameX="-6" frameY="-7" frameWidth="442" frameHeight="530"/>
+	<SubTexture name="bendyDown0000" x="876" y="1012" width="395" height="440" frameX="-5" frameY="0" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0001" x="876" y="1012" width="395" height="440" frameX="-5" frameY="0" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0002" x="1272" y="1012" width="411" height="413" frameX="-5" frameY="-27" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0003" x="1272" y="1012" width="411" height="413" frameX="-5" frameY="-27" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0004" x="1" y="1543" width="397" height="427" frameX="0" frameY="-13" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0005" x="1" y="1543" width="397" height="427" frameX="0" frameY="-13" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0006" x="1" y="1543" width="397" height="427" frameX="0" frameY="-13" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0007" x="1" y="1543" width="397" height="427" frameX="0" frameY="-13" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0008" x="1" y="1543" width="397" height="427" frameX="0" frameY="-13" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0009" x="1" y="1543" width="397" height="427" frameX="0" frameY="-13" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0010" x="1" y="1543" width="397" height="427" frameX="0" frameY="-13" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0011" x="1" y="1543" width="397" height="427" frameX="0" frameY="-13" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0012" x="1" y="1543" width="397" height="427" frameX="0" frameY="-13" frameWidth="416" frameHeight="440"/>
+	<SubTexture name="bendyDown0013" x="1" y="1543" width="397" height="427" frameX="0" frameY="-13" frameWidth="416" frameHeight="440"/>
+</TextureAtlas>

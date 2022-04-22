@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Puppet Sin.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="puppet idle0000" x="0" y="0" width="1372" height="1238" frameX="-174" frameY="-53" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet idle0001" x="1372" y="0" width="1372" height="1238" frameX="-174" frameY="-53" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0000" x="2744" y="0" width="1521" height="1231" frameX="-227" frameY="-16" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0001" x="4265" y="0" width="1521" height="1231" frameX="-227" frameY="-16" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0002" x="5786" y="0" width="1520" height="1223" frameX="-229" frameY="-19" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0003" x="0" y="1231" width="1520" height="1243" frameX="-219" frameY="-19" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0004" x="1520" y="1231" width="1513" height="1224" frameX="-225" frameY="-24" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0005" x="3033" y="1231" width="1513" height="1224" frameX="-222" frameY="-24" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0006" x="4546" y="1231" width="1515" height="1234" frameX="-242" frameY="-25" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0007" x="6061" y="1231" width="1515" height="1234" frameX="-242" frameY="-25" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0008" x="0" y="2454" width="1481" height="1237" frameX="-239" frameY="-25" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0009" x="0" y="2454" width="1481" height="1237" frameX="-239" frameY="-25" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0010" x="0" y="2454" width="1481" height="1237" frameX="-239" frameY="-25" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0011" x="0" y="2454" width="1481" height="1237" frameX="-239" frameY="-25" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0012" x="0" y="2454" width="1481" height="1237" frameX="-239" frameY="-25" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singRIGHT0013" x="0" y="2454" width="1481" height="1227" frameX="-239" frameY="-25" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0000" x="1461" y="2454" width="1683" height="1244" frameX="-30" frameY="-38" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0001" x="1461" y="2454" width="1683" height="1244" frameX="-30" frameY="-38" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0002" x="3144" y="2454" width="1713" height="1254" frameX="0" frameY="-33" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0003" x="3144" y="2454" width="1713" height="1254" frameX="0" frameY="-33" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0004" x="4857" y="2454" width="1687" height="1254" frameX="-25" frameY="-24" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0005" x="6544" y="2454" width="1593" height="1254" frameX="-120" frameY="-39" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0006" x="6544" y="2454" width="1593" height="1254" frameX="-120" frameY="-39" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0007" x="-50" y="3692" width="1520" height="1254" frameX="-246" frameY="-43" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0008" x="-50" y="3692" width="1520" height="1254" frameX="-246" frameY="-43" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0009" x="1470" y="3692" width="1524" height="1254" frameX="-192" frameY="-52" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0010" x="1470" y="3692" width="1524" height="1254" frameX="-192" frameY="-52" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0011" x="1470" y="3692" width="1524" height="1254" frameX="-192" frameY="-52" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singDOWN0012" x="1470" y="3692" width="1500" height="1254" frameX="-192" frameY="-52" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0000" x="3044" y="3692" width="1593" height="1245" frameX="-55" frameY="-29" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0000" x="3044" y="3692" width="1593" height="1245" frameX="-55" frameY="-29" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0002" x="4637" y="3692" width="1593" height="1261" frameX="-56" frameY="-13" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0003" x="4637" y="3692" width="1593" height="1261" frameX="-56" frameY="-13" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0004" x="6230" y="3692" width="1598" height="1267" frameX="-60" frameY="-7" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0005" x="0" y="4959" width="1600" height="1270" frameX="-69" frameY="-8" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0006" x="1600" y="4959" width="1604" height="1276" frameX="-69" frameY="-2" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0007" x="1600" y="4959" width="1604" height="1276" frameX="-69" frameY="-2" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0008" x="3204" y="4959" width="1555" height="1265" frameX="-69" frameY="-10" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0009" x="3204" y="4959" width="1555" height="1265" frameX="-69" frameY="-10" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0010" x="4759" y="4959" width="1553" height="1275" frameX="-69" frameY="0" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0011" x="4759" y="4959" width="1553" height="1275" frameX="-69" frameY="0" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0012" x="4759" y="4959" width="1553" height="1275" frameX="-69" frameY="0" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singLEFT0013" x="4759" y="4959" width="1553" height="1275" frameX="-69" frameY="0" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0000" x="6312" y="4959" width="1499" height="1090" frameX="-220" frameY="-20" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0001" x="6312" y="4959" width="1499" height="1090" frameX="-220" frameY="-20" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0002" x="0" y="6235" width="1505" height="1242" frameX="-234" frameY="-13" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0003" x="1505" y="6235" width="1489" height="1117" frameX="-234" frameY="-23" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0004" x="2994" y="6235" width="1473" height="1089" frameX="-232" frameY="-24" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0005" x="2994" y="6235" width="1473" height="1089" frameX="-232" frameY="-24" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0006" x="4467" y="6235" width="1496" height="1027" frameX="-195" frameY="-33" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0007" x="4467" y="6235" width="1496" height="1027" frameX="-195" frameY="-33" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0008" x="5963" y="6235" width="1471" height="1029" frameX="-222" frameY="-34" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0009" x="5963" y="6235" width="1471" height="1029" frameX="-222" frameY="-34" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0010" x="5963" y="6235" width="1471" height="1029" frameX="-222" frameY="-34" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0011" x="5963" y="6235" width="1471" height="1029" frameX="-222" frameY="-34" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUP0012" x="5963" y="6235" width="1471" height="1029" frameX="-222" frameY="-34" frameWidth="1757" frameHeight="1278"/>
+	<SubTexture name="puppet singUp0013" x="5963" y="6235" width="1471" height="1029" frameX="-222" frameY="-34" frameWidth="1757" frameHeight="1278"/>
+</TextureAtlas>

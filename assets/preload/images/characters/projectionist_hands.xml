@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="projectionist_hands.png"><SubTexture name="projectionist_hands idle0000" x="0" y="0" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands idle0001" x="3036" y="0" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands idle0002" x="6072" y="0" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands idle0003" x="9108" y="0" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands idle0004" x="0" y="1936" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands up0000" x="3036" y="1936" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands up0001" x="6072" y="1936" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands up0002" x="9108" y="1936" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands down0000" x="0" y="3872" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands down0001" x="3036" y="3872" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands down0002" x="6072" y="3872" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands left0000" x="9108" y="3872" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands left0001" x="0" y="5808" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands left0002" x="3036" y="5808" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands right0000" x="6072" y="5808" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands right0001" x="9108" y="5808" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+<SubTexture name="projectionist_hands right0002" x="0" y="7744" width="3036" height="1936" frameX="0" frameY="0" frameWidth="3036" frameHeight="1936" />
+</TextureAtlas>

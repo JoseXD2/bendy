@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fprightarrow.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rightarrow10000" x="0" y="0" width="277" height="45"/>
+	<SubTexture name="rightarrowselectleft0000" x="0" y="45" width="277" height="42"/>
+	<SubTexture name="rightarrowselectright0000" x="0" y="87" width="277" height="42"/>
+</TextureAtlas>

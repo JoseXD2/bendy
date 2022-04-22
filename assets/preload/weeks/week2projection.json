@@ -1,0 +1,31 @@
+{
+	"storyName": "Forsaken Projection",
+	"difficulties": "demon",
+	"hideFreeplay": false,
+	"weekBackground": "bendy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1bendys",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sepia",
+			"projectionistbutnotreally",
+			[
+				60,
+				60,
+				40
+			]
+		]
+	],
+	"weekName": "Forsaken Projection"
+}

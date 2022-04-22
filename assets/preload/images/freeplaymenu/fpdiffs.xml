@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fpdiffs.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="diffangel0000" x="0" y="130" width="227" height="103"/>
+	<SubTexture name="diffdemon0000" x="0" y="130" width="227" height="103"/>
+</TextureAtlas>

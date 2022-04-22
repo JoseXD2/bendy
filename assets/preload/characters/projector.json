@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-500,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1150,
+				320
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "projectionist_hands idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1151,
+				220
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "projectionist_hands left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1120,
+				199
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "projectionist_hands down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1140,
+				337
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "projectionist_hands right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1163,
+				200
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "projectionist_hands up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/projectionist_hands",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "projectionist",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		40,
+		20
+	],
+	"camera_position": [
+		-1350,
+		-390
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

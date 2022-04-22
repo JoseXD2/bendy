@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-125,
+				110
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "bender idle"
+		},
+		{
+			"offsets": [
+				-125,
+				104
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bender left"
+		},
+		{
+			"offsets": [
+				-135,
+				100
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bender down"
+		},
+		{
+			"offsets": [
+				-135,
+				102
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bender up"
+		},
+		{
+			"offsets": [
+				-150,
+				103
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bender right"
+		},
+		{
+			"offsets": [
+				-130,
+				100
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "slap",
+			"indices": [],
+			"name": "bender slap"
+		},
+		{
+			"offsets": [
+				30,
+				270
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "spin",
+			"indices": [],
+			"name": "bender spin"
+		},
+		{
+			"offsets": [
+				10,
+				260
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "pull",
+			"indices": [],
+			"name": "bender pull"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bender",
+	"position": [
+		-150,
+		360
+	],
+	"healthicon": "bendo",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		196,
+		89
+	],
+	"camera_position": [
+		50,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 0.75
+}

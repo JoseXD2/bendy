@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HealthBarStatic.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HealthBarStatic0000" x="3" y="3" width="601" height="19"/>
+	<SubTexture name="HealthBarStatic0001" x="3" y="3" width="601" height="19"/>
+	<SubTexture name="HealthBarStatic0002" x="3" y="24" width="601" height="19"/>
+	<SubTexture name="HealthBarStatic0003" x="3" y="24" width="601" height="19"/>
+	<SubTexture name="HealthBarStatic0004" x="3" y="45" width="601" height="19"/>
+	<SubTexture name="HealthBarStatic0005" x="3" y="45" width="601" height="19"/>
+</TextureAtlas>

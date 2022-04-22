@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "beast-bendy idle"
+		},
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "beast-bendy left"
+		},
+		{
+			"offsets": [
+				-18,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "beast-bendy down"
+		},
+		{
+			"offsets": [
+				-1,
+				-2
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "beast-bendy up"
+		},
+		{
+			"offsets": [
+				-1,
+				2
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "beast-bendy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beast-bendy",
+	"position": [
+		-1000,
+		-1050
+	],
+	"healthicon": "beastbendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		600,
+		650
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				208
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "Ink-demon-bendy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				210
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ink-demon-bendy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				216
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ink-demon-bendy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				208
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ink-demon-bendy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				208
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ink-demon-bendy up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/inkdemon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "inkdemon",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		140,
+		120
+	],
+	"camera_position": [
+		-180,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

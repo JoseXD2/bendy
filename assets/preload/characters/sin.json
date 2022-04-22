@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				87,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sin right"
+		},
+		{
+			"offsets": [
+				86,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sin up"
+		},
+		{
+			"offsets": [
+				86,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sin left"
+		},
+		{
+			"offsets": [
+				87,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sin down"
+		},
+		{
+			"offsets": [
+				88,
+				189
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "idle",
+			"indices": [],
+			"name": "sin idle"
+		},
+		{
+			"offsets": [
+				89,
+				187
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "alt idle",
+			"indices": [],
+			"name": "sin breathe"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sin",
+	"position": [
+		100,
+		0
+	],
+	"healthicon": "sin",
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		33,
+		26
+	],
+	"camera_position": [
+		-194,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

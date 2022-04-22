@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="beast-bendy.png"><SubTexture name="beast-bendy idle0000" x="0" y="0" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0001" x="3004" y="0" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0002" x="6008" y="0" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0003" x="9012" y="0" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0004" x="12016" y="0" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0005" x="15020" y="0" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0006" x="0" y="2736" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0007" x="3004" y="2736" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0008" x="6008" y="2736" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0009" x="9012" y="2736" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0010" x="12016" y="2736" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0011" x="15020" y="2736" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy idle0012" x="0" y="5472" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy up0000" x="3004" y="5472" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy up0001" x="6008" y="5472" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy up0002" x="9012" y="5472" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy up0003" x="12016" y="5472" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy up0004" x="15020" y="5472" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy up0005" x="0" y="8208" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy down0000" x="3004" y="8208" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy down0001" x="6008" y="8208" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy down0002" x="9012" y="8208" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy down0003" x="12016" y="8208" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy down0004" x="15020" y="8208" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy down0005" x="0" y="10944" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy left0000" x="3004" y="10944" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy left0001" x="6008" y="10944" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy left0002" x="9012" y="10944" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy left0003" x="12016" y="10944" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy left0004" x="15020" y="10944" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy left0005" x="0" y="13680" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy right0000" x="3004" y="13680" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy right0001" x="6008" y="13680" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy right0002" x="9012" y="13680" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy right0003" x="12016" y="13680" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy right0004" x="15020" y="13680" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+<SubTexture name="beast-bendy right0005" x="0" y="16416" width="3004" height="2736" frameX="0" frameY="0" frameWidth="3004" frameHeight="2736" />
+</TextureAtlas>

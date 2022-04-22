@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfsillay.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF0000" x="3" y="3" width="154" height="130"/>
+	<SubTexture name="BF Losig0000" x="3" y="135" width="144" height="138"/>
+	<SubTexture name="BF Winig0000" x="3" y="275" width="149" height="118"/>
+</TextureAtlas>

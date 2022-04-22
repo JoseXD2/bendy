@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fpuparrow.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="uparrow10000" x="0" y="0" width="49" height="279"/>
+	<SubTexture name="uparrowselectdown0000" x="49" y="0" width="48" height="283"/>
+	<SubTexture name="uparrowselectup0000" x="97" y="0" width="49" height="283"/>
+</TextureAtlas>

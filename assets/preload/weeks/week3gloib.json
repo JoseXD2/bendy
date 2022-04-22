@@ -1,0 +1,32 @@
+{
+	"storyName": "The lost tapes",
+	"difficulties": "demon",
+	"hideFreeplay": true,
+	"weekBackground": "gloib",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekinkwellhell",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"gloibusjson": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Gloibus",
+			"bendo",
+			[
+				200,
+				200,
+				160
+			]
+		]
+	],
+	"weekName": "The lost tape"
+}

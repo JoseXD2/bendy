@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fpscreens.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="screen10000" x="0" y="0" width="1301" height="751"/>
+	<SubTexture name="screen20000" x="1301" y="0" width="1301" height="751"/>
+	<SubTexture name="screen30000" x="2602" y="0" width="1301" height="751"/>
+	<SubTexture name="screen40000" x="0" y="751" width="1301" height="751"/>
+	<SubTexture name="screen50000" x="1301" y="751" width="1301" height="751"/>
+</TextureAtlas>

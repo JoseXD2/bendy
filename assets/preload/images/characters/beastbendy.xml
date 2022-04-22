@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="beastbendy.png"><SubTexture name="beastbendy idle0000" x="0" y="0" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy idle0001" x="1673" y="0" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy idle0002" x="3346" y="0" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy idle0003" x="5019" y="0" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy idle0004" x="0" y="1625" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy idle0005" x="1673" y="1625" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy idle0006" x="3346" y="1625" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy idle0007" x="5019" y="1625" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy left0000" x="0" y="3250" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy left0001" x="1673" y="3250" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy left0002" x="3346" y="3250" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy up0000" x="5019" y="3250" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy up0001" x="0" y="4875" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy up0002" x="1673" y="4875" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy down0000" x="3346" y="4875" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy down0001" x="5019" y="4875" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy down0002" x="0" y="6500" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy right0000" x="1673" y="6500" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy right0001" x="3346" y="6500" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+<SubTexture name="beastbendy right0002" x="5019" y="6500" width="1673" height="1625" frameX="0" frameY="0" frameWidth="1673" frameHeight="1625" />
+</TextureAtlas>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sin.png"><SubTexture name="sin breathe0000" x="0" y="0" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0001" x="679" y="0" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0002" x="1358" y="0" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0003" x="2037" y="0" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0004" x="2716" y="0" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0005" x="3395" y="0" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0006" x="0" y="1090" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0007" x="679" y="1090" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0008" x="1358" y="1090" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0009" x="2037" y="1090" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0010" x="2716" y="1090" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0011" x="3395" y="1090" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0012" x="0" y="2180" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin breathe0013" x="679" y="2180" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin left0000" x="1358" y="2180" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin left0001" x="2037" y="2180" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin left0002" x="2716" y="2180" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin left0003" x="3395" y="2180" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin down0000" x="0" y="3270" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin down0001" x="679" y="3270" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin down0002" x="1358" y="3270" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin down0003" x="2037" y="3270" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin up0000" x="2716" y="3270" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin up0001" x="3395" y="3270" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin up0002" x="0" y="4360" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin up0003" x="679" y="4360" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin right0000" x="1358" y="4360" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin right0001" x="2037" y="4360" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin right0002" x="2716" y="4360" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin right0003" x="3395" y="4360" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin idle0000" x="0" y="5450" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin idle0001" x="679" y="5450" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin idle0002" x="1358" y="5450" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin idle0003" x="2037" y="5450" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin idle0004" x="2716" y="5450" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin idle0005" x="3395" y="5450" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin idle0006" x="0" y="6540" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin idle0007" x="679" y="6540" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+<SubTexture name="sin idle0008" x="1358" y="6540" width="679" height="1090" frameX="0" frameY="0" frameWidth="679" frameHeight="1090" />
+</TextureAtlas>

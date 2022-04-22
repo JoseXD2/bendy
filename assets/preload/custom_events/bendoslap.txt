@@ -1,0 +1,1 @@
+Value 1: How much health loss (1 = instakill) (0= nothing)

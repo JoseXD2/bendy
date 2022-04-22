@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				95,
+				-40
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "SepiaBF idle"
+		},
+		{
+			"offsets": [
+				46,
+				-40
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SepiaBF singLEFT"
+		},
+		{
+			"offsets": [
+				80,
+				-30
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SepiaBF singDOWN"
+		},
+		{
+			"offsets": [
+				95,
+				-33
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SepiaBF singUP"
+		},
+		{
+			"offsets": [
+				198,
+				-40
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SepiaBF singRIGHT"
+		},
+		{
+			"offsets": [
+				44,
+				-40
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "SepiaBF leftMISS"
+		},
+		{
+			"offsets": [
+				81,
+				-30
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "SepiaBF downMISS"
+		},
+		{
+			"offsets": [
+				100,
+				-33
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "SepiaBF upMISS"
+		},
+		{
+			"offsets": [
+				207,
+				-40
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "SepiaBF rightMISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SepiaBF",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "toonbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		134,
+		119,
+		90
+	],
+	"camera_position": [
+		0,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

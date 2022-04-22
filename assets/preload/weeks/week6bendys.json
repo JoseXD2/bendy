@@ -1,0 +1,32 @@
+{
+	"storyName": "The lost tapes",
+	"difficulties": "demon",
+	"hideFreeplay": true,
+	"weekBackground": "bendy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"fakejson": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Exqendable",
+			"bendy",
+			[
+				200,
+				200,
+				160
+			]
+		]
+	],
+	"weekName": "The lost tape"
+}

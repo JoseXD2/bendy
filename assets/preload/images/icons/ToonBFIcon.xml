@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ToonBFIcon.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Losing0000" x="2" y="2" width="144" height="117"/>
+	<SubTexture name="BF Normal0000" x="2" y="121" width="136" height="104"/>
+</TextureAtlas>

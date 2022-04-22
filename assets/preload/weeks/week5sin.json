@@ -1,0 +1,32 @@
+{
+	"storyName": "wandering is a terrible sin...",
+	"difficulties": "demon",
+	"hideFreeplay": true,
+	"weekBackground": "bendy",
+	"weekBefore": "weekinkwellhell",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"???",
+			"sin",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"sinjson": true,
+	"weekName": "The lost tape"
+}

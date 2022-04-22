@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "bendystage",
+		"player1": "cartoon-bendy",
+		"player2": "projector",
+		"player3": null,
+		"events": [
+			[
+				72857.1428571429,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.05",
+						""
+					]
+				]
+			],
+			[
+				122654.377880184,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.05",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "invis_gf",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Sepia"
+	}
+}

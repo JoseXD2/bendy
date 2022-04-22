@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				274,
+				250
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "puppet idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				300
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "puppet singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				349,
+				280
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "puppet singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				280
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "puppet singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				299,
+				250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "puppet singDOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Puppet_Sin",
+	"position": [
+		100,
+		0
+	],
+	"healthicon": "sinpuppet",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		32,
+		20
+	],
+	"camera_position": [
+		-520,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

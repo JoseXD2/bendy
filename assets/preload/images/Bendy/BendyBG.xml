@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BendyBG.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BendyBGPhase10000" x="1" y="1" width="1289" height="729"/>
+	<SubTexture name="BendyBGPhase20000" x="1" y="731" width="1293" height="734"/>
+	<SubTexture name="BendyBGPhase30000" x="1" y="1466" width="1280" height="720"/>
+</TextureAtlas>

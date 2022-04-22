@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BendyFade.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fade0000" x="1" y="1" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0001" x="1288" y="1" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0002" x="2575" y="1" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0003" x="1" y="733" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0004" x="1288" y="733" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0005" x="2575" y="733" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0006" x="1" y="1464" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0007" x="1288" y="1464" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0008" x="2575" y="1464" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0009" x="1" y="2195" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0010" x="1288" y="2195" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0011" x="2575" y="2195" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0012" x="1" y="2926" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0013" x="1288" y="2926" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0014" x="2575" y="2926" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0015" x="1" y="3657" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0016" x="1288" y="3657" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0017" x="2575" y="3657" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0018" x="1" y="4388" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0019" x="1288" y="4388" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0020" x="2575" y="4388" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0021" x="1" y="5119" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0022" x="1288" y="5119" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0023" x="2575" y="5119" width="1286" height="730" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0024" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0025" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0026" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0027" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0028" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0029" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0030" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0031" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0032" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0033" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0034" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0035" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0036" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0037" x="1" y="5850" width="1286" height="731" frameX="-2" frameY="0" frameWidth="1288" frameHeight="731"/>
+	<SubTexture name="fade0038" x="1288" y="5850" width="1285" height="725" frameX="0" frameY="0" frameWidth="1288" frameHeight="731"/>
+</TextureAtlas>

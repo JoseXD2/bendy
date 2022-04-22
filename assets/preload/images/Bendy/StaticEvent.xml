@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="StaticEvent.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Static20000" x="2" y="2" width="500" height="375"/>
+	<SubTexture name="Static20001" x="504" y="2" width="500" height="375"/>
+	<SubTexture name="Static20002" x="2" y="379" width="500" height="375"/>
+</TextureAtlas>

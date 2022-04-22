@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpaceBarSlam.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpaceBarSlam0000" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0001" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0002" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0003" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0004" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0005" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0006" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0007" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0008" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0009" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0010" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0011" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0012" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0013" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0014" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0015" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0016" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0017" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0018" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0019" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0020" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0021" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0022" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0023" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0024" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0025" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0026" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0027" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0028" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0029" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0030" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0031" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0032" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0033" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0034" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0035" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0036" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0037" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0038" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0039" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0040" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0041" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0042" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0043" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0044" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0045" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0046" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0047" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0048" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0049" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0050" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0051" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0052" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0053" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0054" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0055" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0056" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0057" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0058" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0059" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0060" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0061" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0062" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0063" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0064" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0065" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0066" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0067" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0068" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0069" x="0" y="0" width="380" height="266"/>
+	<SubTexture name="SpaceBarSlam0070" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0071" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0072" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0073" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0074" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0075" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0076" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0077" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0078" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+	<SubTexture name="SpaceBarSlam0079" x="0" y="266" width="380" height="239" frameX="0" frameY="-27" frameWidth="380" frameHeight="266"/>
+</TextureAtlas>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ToonBF.png"><SubTexture name="ToonBF idle0000" x="0" y="0" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF idle0001" x="913" y="0" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF idle0002" x="1826" y="0" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF idle0003" x="2739" y="0" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF idle0004" x="3652" y="0" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF idle0005" x="0" y="868" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singUP0000" x="913" y="868" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singUP0001" x="1826" y="868" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singUP0002" x="2739" y="868" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singUP0003" x="3652" y="868" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singRIGHT0000" x="0" y="1736" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singRIGHT0001" x="913" y="1736" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singRIGHT0002" x="1826" y="1736" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singRIGHT0003" x="2739" y="1736" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singDOWN0000" x="3652" y="1736" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singDOWN0001" x="0" y="2604" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singDOWN0002" x="913" y="2604" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singDOWN0003" x="1826" y="2604" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singLEFT0000" x="2739" y="2604" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singLEFT0001" x="3652" y="2604" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singLEFT0002" x="0" y="3472" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF singLEFT0003" x="913" y="3472" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF upmiss0000" x="1826" y="3472" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF upmiss0001" x="2739" y="3472" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF upmiss0002" x="3652" y="3472" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF rightmiss0000" x="0" y="4340" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF rightmiss0001" x="913" y="4340" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF rightmiss0002" x="1826" y="4340" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF downmiss0000" x="2739" y="4340" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF downmiss0001" x="3652" y="4340" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF downmiss0002" x="0" y="5208" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF leftmiss0000" x="913" y="5208" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF leftmiss0001" x="1826" y="5208" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+<SubTexture name="ToonBF leftmiss0002" x="2739" y="5208" width="913" height="868" frameX="0" frameY="0" frameWidth="913" frameHeight="868" />
+</TextureAtlas>
